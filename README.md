@@ -12,7 +12,7 @@ This repository contains a professional Ethereum vault designed to protect asset
 ## Technical Proof (Security Test)
 As shown in the test below, an immediate withdrawal attempt is rejected by the contract:
 
-![Security Test Proof](./image_7e42a6.png)
+![Security Test Proof](./image_2026-03-06192231.png)
 *(Image showing the 24h lock error in Remix)*
 
 ## Deployment
